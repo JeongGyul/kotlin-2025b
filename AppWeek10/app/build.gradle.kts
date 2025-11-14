@@ -49,7 +49,7 @@ dependencies {
     implementation(libs.androidx.constraintlayout)
 
     // recyclerview
-    implementation("androidx.recylerview:recyclerview:1.4.0")
+    implementation("androidx.recyclerview:recyclerview:1.4.0")
 
     // Room database
     val roomVersion = "2.8.3"
